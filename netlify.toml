@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "/*"
+  to = "https://pancakeswap.finance/voting"
+  status = 301
+  force = true
